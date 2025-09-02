@@ -1,5 +1,5 @@
 from torch.utils.data import DataLoader
-from 构建测试数据集 import *
+from test_datasetGenerate import *
 from GCN_model import GCN
 import torch
 
@@ -53,3 +53,4 @@ if __name__ == '__main__':
 #     # np.savetxt(r'D:\Mirex05-2022-2-28\混合真值.csv', truth.T, fmt='%.1f',
 #     #             delimiter=',')
 #     np.savetxt(r'G:\HPSS\结果\medleydb结果.csv', pre.T, fmt='%.0f', delimiter=',')
+
