@@ -1,0 +1,8 @@
+daisy4.wav
+opera_fem2.wav
+daisy2.wav
+opera_fem4.wav
+daisy1.wav
+opera_male5.wav
+daisy3.wav
+opera_male3.wav
