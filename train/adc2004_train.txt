@@ -1,4 +1,0 @@
-pop2.wav
-pop1.wav
-pop4.wav
-pop3.wav
